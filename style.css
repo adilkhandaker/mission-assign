@@ -83,6 +83,21 @@ h1{
     border:10px solid yellowgreen;
     border-radius: 10px;
 }
+.tour{
+    width:25%;
+    padding: 20px;
+    margin-left:5%;
+    margin-right: 5px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    margin-right: -20px;
+    height:200px;
+   
+}
+#first{
+    background-image:url(image/fav.jpg);
+    
+}
 .bottom{
     background-color: black;
     height:100%;
