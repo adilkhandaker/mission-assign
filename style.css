@@ -1,0 +1,92 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Questrial', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 60px;
+}
+.vertical-line{
+    border-left:5px solid;
+    border-image: linear-gradient(tomato,orangered);
+    border-image-slice: 1;
+    padding-inline: 20px;
+    margin-top:150px;
+   
+
+}
+.tomato-color{
+    color:tomato;
+}
+.flex-container{
+    display:flex;
+    margin-bottom:200px;
+}
+
+.half-width{
+    width:50%;
+    padding-left:5%;
+    
+}
+.half-width img{
+     width:80%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color:orangered;
+    padding:15px 50px;
+    color:white;
+    font-weight: 700;
+    border-radius: 7px;
+    
+    
+}
+#center{
+    text-align:center;
+}
+.mvg-width{
+    width:24%;
+    height:400px;
+    padding:30px;
+    margin-left: 5%;
+    margin-right:-30px;
+    border-radius:30px;
+}
+.mvg-width img{
+     height:200px;
+     width:200px;
+     position: left;
+}
+
+#mission{
+    background-color:lightyellow;
+    
+}
+#vission{
+    background-color: silver;
+}
+#goals{
+    background: lightblue;
+}
+#travel{
+    text-align:center;
+    font-weight: bolder;
+    font-size: 100px;
+    font-style:oblique;
+    color:darkolivegreen;
+    background-color: darkred;
+    height:em;
+    margin:50px;
+    margin-left:400px;
+    margin-right:400px;
+    border:10px solid yellowgreen;
+    border-radius: 10px;
+}
+.bottom{
+    background-color: black;
+    height:100%;
+    text-align: center;
+    color:white;
+    
+}
